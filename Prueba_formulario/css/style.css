@@ -1,0 +1,10 @@
+.titulos{
+	text-align: center;
+
+}
+
+body#login{
+	background-image: url("../imagenes/body-login.jpg");
+}
+
+
